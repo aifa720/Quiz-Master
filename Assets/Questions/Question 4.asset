@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Who is the 44th president of the United State of America?
+  answers:
+  - Kanye West
+  - Barack Obama
+  - George Washington
+  - Dwayne Johnson
+  correctAnswerIndex: 1

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: Which ammendment guarantees American women the right to vote?
+  answers:
+  - 6th Amendement
+  - 1st Amendement
+  - 13th Amendement
+  - 19th Amendement
+  correctAnswerIndex: 3
