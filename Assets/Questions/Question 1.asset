@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: 'What was the name of the gorrilla who was shot and killed by a zoo worker
     in Cincinnati Zoo on the day of  May 28th, 2016? '
+  answers:
+  - Mary
+  - Hilton
+  - Harambe
+  - Hilary
+  correctAnswerIndex: 2
